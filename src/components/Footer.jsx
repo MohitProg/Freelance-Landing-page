@@ -59,7 +59,7 @@ const Footer = () => {
         </div>
         <div className="p-2  ">
         {/* <h1 className="text-lg font-semibold  ">About us</h1> */}
-          <ul className="text-sm flex flex-col text-gray-600 gap-3 mt-2">
+          <ul className="text-sm flex flex-col  text-gray-600 gap-3 mt-7">
             <Link to={"#"} className=""> Security</Link>
             <Link to={"#"} className="flex items-center gap-2"> Privacy</Link>
             <Link to={"#"} className="flex items-center gap-2"> Terms</Link>
