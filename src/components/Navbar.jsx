@@ -3,7 +3,7 @@ import { FiMenu } from "react-icons/fi";
 const Navbar = () => {
   return (
     <header className=" fixed w-full">
-          <nav className=" w-full md:w-[80%]  z-[999]  mx-auto p-6 flex items-center  justify-between">
+          <nav className=" w-full md:w-[80%]  z-[999]  mx-auto p-3 flex items-center  justify-between">
             {/* add logo */}
 
             <div className="  gap-2  flex items-center  p-2  lg:p-3 px-4 border-[0.5px] bg-white border-gray-300  shadow-lg  rounded-xl">
