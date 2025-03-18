@@ -2,7 +2,7 @@ import React from 'react'
 import Contactpng from "../images/contact.png";
 const ContactForm = () => {
   return (
-    <section className="w-full p-3  md:p-0   mt-10 lg:mt-30  lg:w-[80%] rounded-lg mx-auto grid grid-cols-1 md:shadow-lg  md:grid-cols-2 md:border-[2px] gap-10 border-gray-300 overflow-hidden  ">
+    <section className="w-full p-3  md:p-0   mt-10 lg:mt-30  lg:w-[80%] rounded-lg mx-auto grid grid-cols-1 md:shadow-md  md:grid-cols-2 md:border-[1px] gap-10 border-gray-300 overflow-hidden  ">
     <div className="hidden md:flex bg-[#000000]   justify-between flex-col gap-1  ">
       <div className="px-10 py-10 space-y-2 text-white text-start  ">
         <h1 className="text-4xl font-bold">Join With Us</h1>
