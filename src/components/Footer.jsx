@@ -22,7 +22,7 @@ const Footer = () => {
 
       {/* social tabs  */}
 
-      <div className="grid grid-cols-3 gap-4 w-full px-5  lg:w-[50%]   ">
+      <div className="grid grid-cols-3 gap-4 w-full px-8  lg:w-[50%]   ">
         <div className="  ">
           <h1 className="text-lg font-semibold  ">Follow us</h1>
 
